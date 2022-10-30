@@ -1,0 +1,26 @@
+p {
+    color: tan;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+div {
+    width: 50%;
+    margin:auto ;
+    background-color: rebeccapurple;
+}
+
+a {
+    text-decoration: none;
+    color: tan;
+    display: block;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+body {
+    background-color: rebeccapurple;
+}
